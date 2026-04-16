@@ -25,6 +25,8 @@ https://www.kaggle.com/datasets/snehapotukuchi/annotated-dental-images-using-yol
 ### Xray images Annotated Dataset
 https://www.kaggle.com/datasets/snehapotukuchi/annotated-dental-x-ray-images-using-yolo-model
 
+### https://dentalpathologydetection.streamlit.app/
+
 ### Architecture
 <img width="1275" height="850" alt="image" src="https://github.com/user-attachments/assets/a1fc0272-00ea-493b-a0ba-dcde5a64af6a" />
 
