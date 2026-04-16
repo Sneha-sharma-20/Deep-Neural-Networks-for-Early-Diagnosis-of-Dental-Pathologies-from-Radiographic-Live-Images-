@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/camera/processed_camera_dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 4
+names:
+  0: Caries
+  1: Ulcer
+  2: Tooth Discoloration
+  3: Gingivitis

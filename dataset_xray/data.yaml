@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/xray/xray
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names:
+  0: Healthy Teeth
+  1: Caries
+  2: Impacted Teeth
+  3: Broken Down Crown/Root
+  4: Infection
+  5: Fractured Teeth
