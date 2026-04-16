@@ -1,0 +1,14 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+nc: 6
+
+names:
+  0: Healthy Teeth
+  1: Caries
+  2: Impacted Teeth
+  3: Broken Down Crown/Root
+  4: Infection
+  5: Fractured Teeth
