@@ -1,2 +1,21 @@
 # Deep-Neural-Networks-for-Early-Diagnosis-of-Dental-Pathologies-from-Radiographic-Live-Images-
-An AI-powered dental disease detection system using YOLOv11 and computer vision to identify oral conditions from X-ray and camera images, including gingivitis, caries, ulcers, infections, and more, with a Streamlit-based web interface for early diagnosis.
+## 🎯 Project Objective
+
+The primary objective of this project is to develop an AI-powered system for early detection of dental diseases using deep learning and computer vision techniques.
+
+- To build a robust detection model using **YOLOv11** for identifying dental conditions from both X-ray and real-time camera images.  
+- To detect multiple dental pathologies including:
+  - **Camera Images**: Gingivitis, Ulcers, Tooth Discoloration, Caries  
+  - **X-ray Images**: Caries, Impacted Teeth, Broken Down Crown/Root, Infections, Fractured Teeth  
+- To create a user-friendly **Streamlit web application** for real-time prediction and visualization.  
+- To assist in **early diagnosis** and improve accessibility to preliminary dental screening.  
+- To reduce manual effort and enhance diagnostic accuracy using automated detection.  
+- To integrate annotated datasets (via **Roboflow**) for efficient training and validation.  
+
+This project aims to bridge the gap between AI technology and healthcare by providing a fast, reliable, and accessible dental screening solution.
+
+### Live Camera Annotated Dataset
+https://www.kaggle.com/datasets/snehapotukuchi/annotated-dental-images-using-yolo-models
+
+### Xray images Annotated Dataset
+https://www.kaggle.com/datasets/snehapotukuchi/annotated-dental-x-ray-images-using-yolo-model
